@@ -11,6 +11,6 @@ spec:
     spec:
       containers:
       - name: my-deployment
-        image: kshitijpsharma/proj2
+        image: kshitijpsharma/proj1030devops
         ports:
         - containerPort: 80
